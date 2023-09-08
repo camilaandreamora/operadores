@@ -1,0 +1,6 @@
+Var_a=0
+Var_b =1
+Var_c=1
+maquina= Var_c and (Var_b or Var_a)
+print(maquina)
+DEIBY BLANCO - CAMILA MORA
